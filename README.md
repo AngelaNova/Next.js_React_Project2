@@ -71,5 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-screen :![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/d7fdad58-aa7b-49c9-bd8d-c809dd688b96)
+###Screen laptop: 
+![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/d7fdad58-aa7b-49c9-bd8d-c809dd688b96)
+
+###Screen iPad:
+![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/acc808a6-5160-41b7-bcc1-bd4f97764114)
+
+###Screen Mobile Device:
+![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/b6d84a7f-f1a4-40d9-94ec-1c20d08223e4)
+
+
 
