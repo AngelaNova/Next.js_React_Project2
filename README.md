@@ -72,7 +72,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ###Screen laptop: 
-![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/d7fdad58-aa7b-49c9-bd8d-c809dd688b96)
+<img 
+![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/d7fdad58-aa7b-49c9-bd8d-c809dd688b96) width="250"/>
+
 
 ###Screen iPad:
 ![image](https://github.com/AngelaNova/Next.js_React_Project2/assets/160551855/acc808a6-5160-41b7-bcc1-bd4f97764114)
